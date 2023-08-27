@@ -23,6 +23,7 @@ The selected background color is applied in real-time as you use the color picke
 ![Home Screen](/screenshots/home_screen.png)
 ![Category Screen](/screenshots/category_screen.png)
 ![Settings Screen](/screenshots/settings_screen.png)
+![color picker Screen](/screenshots/color_picker.png)
 
 ## Getting Started
 
