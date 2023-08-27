@@ -20,8 +20,8 @@ The selected background color is applied in real-time as you use the color picke
 
 ## Screenshots
 ![Splash Screen](/screenshots/splash_screen.png)
-![Category Screen](/screenshots/category_screen.png)
 ![Home Screen](/screenshots/home_screen.png)
+![Category Screen](/screenshots/category_screen.png)
 ![Settings Screen](/screenshots/settings_screen.png)
 
 ## Getting Started
